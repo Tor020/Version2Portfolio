@@ -1,0 +1,1 @@
+wat=document.createElement("h1"),wat.innerHTML="working";
